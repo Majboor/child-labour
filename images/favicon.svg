@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="192px" height="186px" viewBox="0 0 192 186" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 8 Copy</title>
+    <g id="Styles" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Homescreen" transform="translate(0.000000, -3.000000)">
+            <g id="Group-8-Copy" transform="translate(0.000000, 3.000000)">
+                <g id="Group-7" transform="translate(0.000000, 66.000000)">
+                    <polygon id="Fill-6" fill="#2EA9E1" points="0 120 60 120 30 43.902439"></polygon>
+                    <path d="M0,29.2682927 C0,13.1035661 13.1035661,0 29.2682927,0 C45.4330192,0 58.5365854,13.1035661 58.5365854,29.2682927 C58.5365854,45.4330192 45.4330192,58.5365854 29.2682927,58.5365854 C13.1035661,58.5365854 0,45.4330192 0,29.2682927" id="Fill-7" fill="#1A70B8"></path>
+                </g>
+                <g id="Group-6" transform="translate(65.000000, 0.000000)">
+                    <polygon id="Fill-6-Copy" fill="#37A933" points="0 120 60 120 30 43.902439"></polygon>
+                    <path d="M0,29.2682927 C0,13.1035661 13.1035661,0 29.2682927,0 C45.4330192,0 58.5365854,13.1035661 58.5365854,29.2682927 C58.5365854,45.4330192 45.4330192,58.5365854 29.2682927,58.5365854 C13.1035661,58.5365854 0,45.4330192 0,29.2682927" id="Fill-7-Copy" fill="#F39204"></path>
+                </g>
+                <g id="Group-4" transform="translate(132.000000, 38.000000)">
+                    <polygon id="Fill-6-Copy-2" fill="#1A70B8" points="0 120 60 120 30 43.902439"></polygon>
+                    <path d="M0,29.2682927 C0,13.1035661 13.1035661,0 29.2682927,0 C45.4330192,0 58.5365854,13.1035661 58.5365854,29.2682927 C58.5365854,45.4330192 45.4330192,58.5365854 29.2682927,58.5365854 C13.1035661,58.5365854 0,45.4330192 0,29.2682927" id="Fill-7-Copy-2" fill="#D60B52"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
