@@ -28,7 +28,7 @@
     --c_d2t: var(--c_d2);
     --c_ix: 255, 255, 255;
     --c_ixt: var(--c_ix);
-    --c_i1: #0400fa;
+    --c_i1: #ffff;
     --c_i1t: var(--c_i1);
     --c_i2: #aaaaaa;
     --c_i2t: var(--c_i2);
@@ -48,7 +48,7 @@
     --c_a6t: var(--c_a6);
     --c_a7: #017974;
     --c_a7t: var(--c_a7);
-    --c_b1: #0400fa;
+    --c_b1: #ffff;
     --c_b1t: var(--c_b1);
     --c_b2: #e5e5e5;
     --c_b2t: var(--c_b2);
@@ -2943,13 +2943,13 @@
 }
 
 .footer1 {
-    color: #0400fa;
+    color: #ffff;
     margin-bottom: 0;
     padding-bottom: var(--sy)
 }
 
 .footer1:before {
-    color: #0400fa;
+    color: #ffff;
     display: block;
     content: '';
     margin-bottom: 50px;
@@ -2957,12 +2957,12 @@
 }
 
 .footer1.-noline:before {
-    color: #0400fa;
+    color: #ffff;
     display: none
 }
 
 .footer1-section {
-    color: #0400fa;
+    color: #ffff;
 }
 
 .footer1-section.-middle {
@@ -2970,35 +2970,35 @@
 }
 
 .footer1-section.-middle>div {
-    color: #0400fa;
+    color: #ffff;
     margin-top: 30px
 }
 
 .footer1-section.-top+hr {
-    color: #0400fa;
+    color: #ffff;
     margin: 30px 0
 }
 
 .footer1-section.-bottom {
-    color: #0400fa;
+    color: #ffff;
     --gy: 10rem;
     font-size: 13rem
 }
 
 .footer1-section.-bottom .accreditation1 figure {
-    color: #0400fa;
+    color: #ffff;
     height: 70px;
     width: 180px
 }
 
 .footer1-links {
-    color: #0400fa;
+    color: #ffff;
     display: flex;
     justify-content: space-between
 }
 
 .footer1-links>ul {
-    color: #0400fa;
+    color: #ffff;
     flex-grow: 1;
     columns: 2;
     margin: -5rem 0 0;
@@ -3006,7 +3006,7 @@
 }
 
 .footer1-links>ul>li {
-    color: #0400fa;
+    color: #ffff;
     display: inline-block;
     width: 100%;
     margin-bottom: 0;
@@ -3014,18 +3014,18 @@
 }
 
 .footer1-links>ul>li:before {
-    color: #0400fa;
+    color: #ffff;
     display: none
 }
 
 .footer1-links.-v2 .locations {
-    color: #0400fa;
+    color: #ffff;
     flex-shrink: 0;
     margin-right: 30rem
 }
 
 .footer1-legal {
-    color: #0400fa;
+    color: #ffff;
     display: flex;
     flex-wrap: wrap;
     padding: 0;
@@ -3037,30 +3037,30 @@
 }
 
 .footer1-legal li {
-    color: #0400fa;
+    color: #ffff;
     margin: 0 15px 3px 0
 }
 
 .footer1-legal a {
-    color: #0400fa;
+    color: #ffff;
     display: block
 }
 
 .footer1-legal li:before {
-    color: #0400fa;
+    color: #ffff;
     display: none
 }
 
 .footer1-author .icon-heart,
 .footer1-copys .icon-heart {
-    color: #0400fa;
+    color: #ffff;
     color: var(--c_a2t);
     font-size: 1.25em;
     vertical-align: middle
 }
 
 .footer1-copys {
-    color: #0400fa;
+    color: #ffff;
     font-size: 13px;
     font-style: normal;
     font-weight: 300;
@@ -3068,54 +3068,54 @@
 }
 
 .footer1-author {
-    color: #0400fa;
+    color: #ffff;
     font-size: 13rem
 }
 
 .footer1-section.-middle>div {
-    color: #0400fa;
+    color: #ffff;
     padding-right: 0
 }
 
 .flooter-right {
-    color: #0400fa;
+    color: #ffff;
     display: flex;
     justify-content: flex-end;
     flex-direction: column
 }
 
 .page-template-template-donate-landing .footer1:before {
-    color: #0400fa;
+    color: #ffff;
     display: none
 }
 
 @media print,
 (min-width:1024px) {
     .footer1-section>:last-child {
-        color: #0400fa;
+        color: #ffff;
         margin-left: auto;
         padding-right: var(--s3)
     }
 
     .footer1-section.-bottom>:last-child {
-        color: #0400fa;
+        color: #ffff;
         padding-right: 0
     }
 
     .footer1-links figure,
     .footer1-links .socials1 {
-        color: #0400fa;
+        color: #ffff;
         flex: none;
         margin: 0 0 0 30rem
     }
 
     .footer1-links figure .img1 {
-        color: #0400fa;
+        color: #ffff;
         width: calc(var(--w) * 1rem)
     }
 
     .footer1-links.-v2>ul {
-        color: #0400fa;
+        color: #ffff;
         columns: 1;
         flex-grow: 0;
         display: flex;
@@ -3827,7 +3827,7 @@
 }
 
 .header8-title h1 {
-    color: white;
+    color: black;
     max-width: 1000rem
 }
 
@@ -4180,7 +4180,7 @@ a:hover .icon1[class] {
     width: 1em;
     height: 1em;
     margin: 15px;
-    color: blue;
+    color: #ffff;
     font-size: 40rem;
     line-height: 1;
     cursor: pointer
@@ -5889,12 +5889,12 @@ screen and (min-width:1024px) and (max-width:1279px) {
     left: -10001rem;
     margin: 0 auto;
     padding: 20rem 30rem;
-    border: 1px dotted blue;
+    border: 1px dotted #ffff;
     border-color: rgba(255, 255, 255, .7);
     border-radius: 20rem;
     background: #333;
     background: rgba(0, 0, 0, .6);
-    color: blue;
+    color: #ffff;
     text-align: center;
     text-decoration: none;
     outline: none
@@ -5956,7 +5956,7 @@ screen and (max-width:1023px) {
 }
 
 .socials2 {
-    color: white;
+    color: black;
     overflow: hidden
 }
 
@@ -7228,7 +7228,7 @@ screen and (max-width:1023px) {
     font-weight: 600;
     font-size: 16rem;
     line-height: 22px;
-    color: blue
+    color: #ffff
 }
 
 .embed-side .form1 .htmlContent .-red span {
@@ -7300,7 +7300,7 @@ screen and (max-width:1023px) {
     display: block;
     width: 12px;
     height: 12px;
-    background-color: blue;
+    background-color: #ffff;
     border-radius: 50%;
     border: 2px solid #000;
     position: relative;
@@ -7374,7 +7374,7 @@ screen and (max-width:1023px) {
     position: fixed;
     bottom: 0;
     width: 100%;
-    background-color: blue;
+    background-color: #ffff;
     padding: 0
 }
 
@@ -7428,7 +7428,7 @@ screen and (max-width:1023px) {
     max-width: 540px;
     min-width: 300px;
     margin: 0 auto;
-    background-color: blue;
+    background-color: #ffff;
     padding: 40px 24px;
     box-sizing: border-box;
     text-align: center
@@ -7491,7 +7491,7 @@ screen and (max-width:1023px) {
     display: block;
     width: 12px;
     height: 12px;
-    background-color: blue;
+    background-color: #ffff;
     border-radius: 50%;
     border: 2px solid #000;
     position: relative;
@@ -7635,7 +7635,7 @@ screen and (max-width:1023px) {
 }
 
 .wysiwyg {
-    color: white;
+    color: black;
 }
 
 .wysiwyg a {
@@ -7857,7 +7857,7 @@ input[type=submit] {
 .button1.-st1:hover {
     --bcn: var(--c_b1t);
     --bch: var(--c_d1t);
-    color: blue
+    color: #ffff
 }
 
 .button1.-loadmore {
@@ -8581,7 +8581,7 @@ body>:not(.root1) form {
 @media print {
     body {
         overflow: hidden;
-        background: blue
+        background: #ffff
     }
 }
 
@@ -9137,7 +9137,7 @@ blockquote,
 cite,
 figcaption,
 [class*="-t:"] {
-    color: white;
+    color: black;
     font: 300 20rem/var(--lh, 1.5) var(--ff_1);
     letter-spacing: 0;
     text-transform: none;
@@ -9146,7 +9146,7 @@ figcaption,
 
 .-t\:1,
 h1 {
-    color: white;
+    color: black;
     --lh: var(--lh_2);
     font: 900 60rem/var(--lh) var(--ff_1);
     letter-spacing: -.03em
@@ -9154,7 +9154,7 @@ h1 {
 
 .-t\:2,
 h2 {
-    color: white;
+    color: black;
     --lh: var(--lh_2);
     font: 900 42rem/var(--lh) var(--ff_1);
     letter-spacing: -.03em
@@ -9295,7 +9295,7 @@ label:where(:first-child) {
 
     .-t\:1,
     h1 {
-        color: white;
+        color: black;
         font-size: 46rem
     }
 
@@ -12498,7 +12498,7 @@ screen and (max-width:736px) and (orientation:landscape) {
 .cc-window,
 .cc-revoke {
     background: #000;
-    color: blue;
+    color: #ffff;
     opacity: 1
 }
 
@@ -12508,13 +12508,13 @@ screen and (max-width:736px) and (orientation:landscape) {
 }
 
 .cc-btn.cc-allow {
-    background: blue;
+    background: #ffff;
     color: #000
 }
 
 .cc-btn.cc-allow:hover {
     background: #000;
-    color: blue
+    color: #ffff
 }
 
 @media screen and (max-width:760px) {
@@ -12615,7 +12615,7 @@ input[name=post_password] {
     border: none;
     border-radius: var(--or);
     background: #000;
-    color: blue;
+    color: #ffff;
     font: 900 16rem/var(--lh) var(--ff_1);
     letter-spacing: -.25rem;
     text-align: center;
@@ -12626,7 +12626,7 @@ input[name=post_password] {
 
 #fa-form #submit_button:hover {
     color: #000;
-    background-color: blue;
+    background-color: #ffff;
     border: 1px solid #000
 }
 
